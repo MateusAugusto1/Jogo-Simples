@@ -12,7 +12,7 @@ body {
   }
 
   h1:hover{
-    color: rgb(147, 42, 13);
+    color: rgb(140, 118, 112);
     transition: all 0.5;
   }
   
@@ -20,7 +20,7 @@ body {
     font-size: 3.5em;
     margin-top: 0.5em;
     margin-bottom: 1.5em;
-    color: rgb(221, 221, 221);
+    color: rgb(255, 255, 255);
     font-weight: bolder;
   }
   
